@@ -4,3 +4,6 @@ orders.csv
 transactions.csv
 data
 loan_defaults.csv
+opay_transactions.csv
+customer_spending.csv
+student_scores.csv
